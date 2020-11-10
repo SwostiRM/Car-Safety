@@ -1,2 +1,2 @@
-# GSCO-Game
-This is a game to show the collision of the car with a wall because can be how much dangerous using colors
+# p5.play-boilerplate
+Boiler plate for p5.play
